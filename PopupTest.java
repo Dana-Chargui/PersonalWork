@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class MyOwn {
+public class PopupT {
     public static void main(String[] args) {        
         //this gives you a pop up to input value into
 
